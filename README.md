@@ -4,6 +4,6 @@ Rogene Eichler West, Ph.D., QEEG-D
 	Associate Editor, Clinical EEG and Neuroscience
 	Senior Research Scientist in Cognitive and Behavioral Modeling, Pacific Northwest National Laboratory
 
-This GitHub account is to share personal EEG and ERP analysis projects. None are associated with projects sponsored by clients at PNNL.
+This GitHub account is to share personal EEG and ERP analysis projects.
 
 dr.west@nwneuro.pro
